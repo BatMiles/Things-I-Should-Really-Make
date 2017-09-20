@@ -10,3 +10,4 @@ website grader that gives you a score based on your pages screen-reader/colorbli
   you automatically fail if you have autoplaying videos
 medication tracker app
 turn photos into cross-stitch patterns
+Horoscope generator
