@@ -14,3 +14,4 @@ A collection of fun and technically challenging side project ideas.
 * Script to show which css styles aren't being used any more
 * RPG character generator
 * Log work-related expenses by photographing receipts, and generating an invoice
+* DnD tabletop setup
