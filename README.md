@@ -12,3 +12,4 @@ A collection of fun and technically challenging side project ideas.
 * Horoscope generator
 * Code visualizer
 * Script to show which css styles aren't being used any more
+* RPG character generator
